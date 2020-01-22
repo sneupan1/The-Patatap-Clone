@@ -1,0 +1,22 @@
+{
+  "name": "the-patatap-clone",
+  "version": "1.0.0",
+  "description": "A Patatap Clone app created using PaperJS and HowlerJS!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneupan1/The-Patatap-Clone.git"
+  },
+  "author": "Saurav Neupane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneupan1/The-Patatap-Clone/issues"
+  },
+  "homepage": "https://github.com/sneupan1/The-Patatap-Clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
